@@ -1,0 +1,52 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Flutter/.last_build_id
+.dart_tool/
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Android specific
+android/app/google-services.json
+android/app/src/main/generated/
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/ServiceDefinitions.json
+ios/Podfile.lock
+ios/.generated_plugin_registrant.dart
+
+# macOS specific
+macos/Flutter/Flutter.podspec
+macos/Flutter/FlutterMacOS.framework/
+
+# Web specific
+web/packages/
+web/.dart_tool/
+web/.flutter-plugins
+web/.flutter-plugins-dependencies
+web/assets/
+
+# Miscellaneous
+*.log
+*.log.*
+*.tmp
+
+# Environment-specific files
+*.iml
+*.jks
+*.key
+*.map
+*.store
